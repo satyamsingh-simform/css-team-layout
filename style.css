@@ -18,9 +18,9 @@ body{
 
 }
 
-.box{
+/* .box{
     border: 1px solid rgb(194, 191, 191);
-}
+} */
 
 .box1{
     grid-column: 1/-1;
@@ -99,7 +99,7 @@ body{
     height: 3rem;
     width: 3rem;
     /* background-color: rgb(223, 209, 209); */
-    border: 1px solid rgb(156, 154, 154);
+    /* border: 1px solid rgb(156, 154, 154); */
     /* border-radius: 50%; */
     display: flex;
     justify-content: center;
